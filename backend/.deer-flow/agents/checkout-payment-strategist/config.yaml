@@ -1,0 +1,4 @@
+name: checkout-payment-strategist
+description: Ecommerce and local-services checkout payment strategy agent for payment data analysis, rule diagnosis, structured rule drafting, experiments, monitoring, and rollback planning.
+skills:
+  - checkout-payment-decision
